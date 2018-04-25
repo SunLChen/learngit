@@ -1,0 +1,37 @@
+2018-04-16 02:04:11,454: DEBUG  : log4cpp.cc(86)  main() this is a debug msg
+2018-04-16 02:04:11,455: INFO  : log4cpp.cc(87)  main() This is a info msg
+2018-04-16 02:04:11,455: ERROR  : log4cpp.cc(88)  main() This is a error msg
+2018-04-16 02:04:11,455: WARN  : log4cpp.cc(89)  main() This is a warn msg
+2018-04-16 02:12:21,305: WARN  : log4cpp.cc(90)  main()this is a warn msg
+2018-04-16 02:15:57,237: WARN  : log4cpp.cc(88)  main()  this is a warn msg
+2018-04-16 02:15:57,237: ERROR  : log4cpp.cc(89)  main()  this is a warn msg
+2018-04-16 02:15:57,238: DEBUG  : log4cpp.cc(90)  main()  this is a warn msg
+2018-04-16 02:15:57,238: INFO  : log4cpp.cc(91)  main()  this is a warn msg
+[2018-04-16 02:18:04,445] [WARN] [] []  log4cpp.cc(88)  main()  this is a warn msg
+[2018-04-16 02:18:04,445] [ERROR] [] []  log4cpp.cc(89)  main()  this is a warn msg
+[2018-04-16 02:18:04,445] [DEBUG] [] []  log4cpp.cc(90)  main()  this is a warn msg
+[2018-04-16 02:18:04,445] [INFO] [] []  log4cpp.cc(91)  main()  this is a warn msg
+[2018-04-16 02:18:35,518] [WARN]  log4cpp.cc(88)  main()  this is a warn msg
+[2018-04-16 02:18:35,518] [ERROR]  log4cpp.cc(89)  main()  this is a warn msg
+[2018-04-16 02:18:35,518] [DEBUG]  log4cpp.cc(90)  main()  this is a warn msg
+[2018-04-16 02:18:35,518] [INFO]  log4cpp.cc(91)  main()  this is a warn msg
+[2018-04-16 17:20:31,079] [WARN]  log4cpp.cc(88)  main()  this is a warn msg
+[2018-04-16 17:20:31,079] [ERROR]  log4cpp.cc(89)  main()  this is a warn msg
+[2018-04-16 17:20:31,080] [DEBUG]  log4cpp.cc(90)  main()  this is a warn msg
+[2018-04-16 17:20:31,080] [INFO]  log4cpp.cc(91)  main()  this is a warn msg
+[2018-04-16 22:19:30,838] [WARN]  log4cpp.cc(95)  main()  this is a warn msg,num=num
+[2018-04-16 22:19:30,838] [ERROR]  log4cpp.cc(96)  main()  this is a warn msg
+[2018-04-16 22:19:30,838] [DEBUG]  log4cpp.cc(97)  main()  this is a warn msg
+[2018-04-16 22:19:30,839] [INFO]  log4cpp.cc(98)  main()  this is a warn msg
+[2018-04-16 22:42:26,544] [WARN]  log4cpp.cc(100)  main()  this is a warn msg,num=10
+[2018-04-16 22:42:26,545] [ERROR]  log4cpp.cc(101)  main()  this is a warn msg
+[2018-04-16 22:42:26,545] [DEBUG]  log4cpp.cc(102)  main()  this is a warn msg
+[2018-04-16 22:42:26,545] [INFO]  log4cpp.cc(103)  main()  this is a warn msg
+[2018-04-16 22:43:01,097] [WARN]  log4cpp.cc(100)  main()  this is a warn msg,num=10
+[2018-04-16 22:43:01,097] [ERROR]  log4cpp.cc(101)  main()  this is a warn msg
+[2018-04-16 22:43:01,098] [DEBUG]  log4cpp.cc(102)  main()  this is a warn msg
+[2018-04-16 22:43:01,098] [INFO]  log4cpp.cc(103)  main()  this is a warn msg
+[2018-04-16 22:43:07,199] [WARN]  log4cpp.cc(100)  main()  this is a warn msg,num=10
+[2018-04-16 22:43:07,200] [ERROR]  log4cpp.cc(101)  main()  this is a warn msg
+[2018-04-16 22:43:07,200] [DEBUG]  log4cpp.cc(102)  main()  this is a warn msg
+[2018-04-16 22:43:07,200] [INFO]  log4cpp.cc(103)  main()  this is a warn msg
